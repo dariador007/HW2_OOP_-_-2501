@@ -12,5 +12,5 @@ DietaryRecipe - рецепт с диетической категорией.
 Склонируйте репозиторий:
 
 ```bash
-git clone <ссылка-на-репозиторий>
-cd <папка-репозитория>
+git clone dariador007/HW2_OOP_-_-2501
+cd dasha_dz
